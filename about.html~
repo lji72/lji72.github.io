@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>德图科技</title>
+<title>关于我们_模板网-www.5imoban.net</title>
 <meta name="keywords" content="" />
 <meta name="description" content="" />
 <link href="img/tg_comm.css" rel="stylesheet" type="text/css" />
@@ -20,15 +20,16 @@ DD_belatedPNG.fix('.flash_bar,#tit_fc1,#tit_fc2,#tit_fc3,#tit_fc4,#flashLine');
     <!-- <div id="logo"><a href="/"><div class="LogoGaoguang"></div><img src="img/tg_logo.jpg" width="240" height="60" /></a></div> -->
         <ul class="nav">
             <li><a href='index.html'><span>网站首页</span></a></li>
-            <li class='hover'><a href='services.html' ><span>服务项目</span></a></li>
-            <li><a href='about.html' ><span>关于我们</span></a></li>
+            <li><a href='services.html' ><span>服务项目</span></a></li>
+            <li class='hover'><a href='about.html' ><span>关于我们</span></a></li>
             <li><a href='contact.html' ><span>联系我们</span></a></li>
         </ul>
 		
- </div>
+				
+  </div>
 </div>
 <!--header end-->
-<!-- <script src="http://www.5imoban.net/download/jquery/jquery-1.8.3.min.js"></script> -->
+<script src="http://www.5imoban.net/download/jquery/jquery-1.8.3.min.js"></script>
 <script>
 function zpmenu() {
 	if ($(".zp_menu_box").css("display") == 'none'){
@@ -57,36 +58,18 @@ function Hiddentit(i) {
 </script>
 <!--portfolio begin-->
 <div class="about_bar"></div>
-<!--services begin-->
-<div class="services_tit"></div>
-<div class="ser_area1">我们的宗旨是为客户提供导航地图标注服务与导航地图数据库开发,同时我们涉及企业网站建设与推广、营业执照代办与税务登记，微企业宣传等服务。</div>
-<div class="ser_area2">
-  <div class="ser_2L"><span class="interface">一直专注于车载导航地图标注、手机导航地图标注、各大门户地图网站地图标注。大型企业内部地图标注及地图项目开发维护，GPS高端地图标注等多种地标注建设。</span></div>
-  <div class="ser_2R"><span class="website">提供企业网站建设与推广服务。</span></div>
+<div class="about_titu"><img src="img/tg_about.jpg" width="969" height="364" /></div>
+<div class="about_con">
+
+  <div class="tg_vision"></div>
+  <p><img src="img/about_tg.jpg" width="150" height="88" align="left" style="margin-right:20px; margin-top:5px;" />江西德图科技服务有限公司致力于导航地图标注服务与导航地图数据库开发，一直专注于车载导航地图标注、手机导航地图标注、各大门户地图网站地图标注。大型企业内部地图标注及地图项目开发维护，GPS高端地图标注等多种地标注建设，电子地图相关营销策划，企业地图标注推广，地标注册和申请服务，以及开发各种高质量的国内外地图数据库等。为更好的为企业提供专业服务品质，同时我们涉及企业网站建设与推广、营业执照代办与税务登记，微企业宣传等服务。</p>
+  
+  <div class="Services"><a href="services.html" class="seeall"></a></div>
+  <p>我们的宗旨是为客户提供导航地图标注服务与导航地图数据库开发,同时我们涉及企业网站建设与推广、营业执照代办与税务登记，微企业宣传等服务。</p>
+  
+  <div class="cl"></div>
 </div>
-<div class="ser_area3">
-  <div class="ser_3L"><span class="icon">电子地图相关营销策划，企业地图标注推广，地标注册和申请服务，以及开发各种高质量的国内外地图数据库等。</span></div>
-  <div class="ser_3R"> <span class="graphic">涵盖了营业执照代办与税务登记，微企业宣传等服务。</span></div>
-</div>
-<div class="process">
-  <div class="pro_1">建立合作意向，<br />
-    明确项目需求。</div>
-  <div class="pro_2">确定项目设计制作<br />
-    时间和费用。</div>
-  <div class="pro_3">签署项目合作协议，<br />
-    支付项目启动定金。</div>
-  <div class="pro_4">启动项目，3-5个工作<br />
-    日内完成初稿，确定<br />
-    设计风格。</div>
-  <div class="pro_5">完成项目设计部分，<br />
-    修改并最终确认。</div>
-  <div class="pro_6">项目验收合格后支付<br />
-    尾款。我们提交项目<br />
-    源文件。</div>
-  <div class="pro_7">项目结束提供免费<br />
-    局部设计修改，免费售后服务1个月。</div>
-</div>
-<!--portfolio end-->
+<!--About end-->
 <!--footer begin-->
 <div id="footer">
   <div id="Copyright">
