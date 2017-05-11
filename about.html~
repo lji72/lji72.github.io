@@ -58,7 +58,7 @@ function Hiddentit(i) {
 </script>
 <!--portfolio begin-->
 <div class="about_bar"></div>
-<div class="about_titu"><img src="img/tg_about.jpg" width="969" height="364" /></div>
+<div class="about_titu"><img src="img/tg_about.png" width="969" height="364" /></div>
 <div class="about_con">
 
   <div class="tg_vision"></div>
