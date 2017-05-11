@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>模板网-www.5imoban.net</title>
+<title>德图科技</title>
 <meta name="keywords" content="" />
 <meta name="description" content="" />
 <link href="img/tg_comm.css" rel="stylesheet" type="text/css" />
@@ -34,17 +34,6 @@ DD_belatedPNG.fix('.flash_bar,#tit_fc1,#tit_fc2,#tit_fc3,#tit_fc4,#flashLine');
 <div id="flashLine">
 <div id="flash">
     <a href="index.html" target="_blank"  id="flash1" style="display:block;" name="#04304b"><img src="img/1.jpg" width="980" height="393" /></a>
-    <a href="index.html" target="_blank"  id="flash2"  name="#000000"><img src="img/2.jpg" width="980" height="393" /></a>
-    <a href="index.html" target="_blank"  id="flash3"  name="#04304b"><img src="img/3.jpg" width="980" height="393" /></a>
-    <a href="index.html" target="_blank"  id="flash4"  name="#000000"><img src="img/4.jpg" width="980" height="393" /></a>
-    <a href="index.html" target="_blank"  id="flash5"  name="#000000"><img src="img/5.jpg" width="980" height="393" /></a>
-    <div class="flash_bar">
-        <div class="dq" id="f1" onClick="changeflash(1)"></div>
-        <div class="no" id="f2" onClick="changeflash(2)"></div>
-        <div class="no" id="f3" onClick="changeflash(3)"></div>
-        <div class="no" id="f4" onClick="changeflash(4)"></div>
-        <div class="no" id="f5" onClick="changeflash(5)"></div>
-    </div>
 </div>
 </div>
 </div>
